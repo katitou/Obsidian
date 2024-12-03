@@ -8,9 +8,7 @@ Install Docker
 curl -fsSL https://get.docker.com -o get-docker.sh
 sudo sh get-docker.sh
 
-Install Nvidia Drivers
-sudo apt install --no-install-recommends nvidia-driver-535
-sudo reboot
+
 
 Install Nvidia Container Toolkit
 distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
