@@ -1,4 +1,4 @@
-нужно установить savant. в документации написано we provide the instruction on how to configure Ubuntu 22.04 runtime. If you use another operation system, adapt the instructions to your OS. мне нужно установить на linux manajaro gnome, можешь помочь исправить команды?
+ установить savant. в документации написано we provide the instruction on how to configure Ubuntu 22.04 runtime. If you use another operation system, adapt the instructions to your OS. 
 
 Update Packages and Install Basic Tools
 sudo apt-get update
