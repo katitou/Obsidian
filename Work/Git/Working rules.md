@@ -19,3 +19,4 @@ add Load
 
 ```
 
+[Cтатья(https://confluence.dns-shop.ru/x/x8bsDQ) с описанием прототипа Face-ReID фреймворка Savant. 
