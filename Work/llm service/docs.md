@@ -1,3 +1,10 @@
+- [[#FastAPI|FastAPI]]
+- [[#Milvus|Milvus]]
+- [[#GraphRAG|GraphRAG]]
+- [[#OpenAI API (контракт взаимодействия FastAPI ↔ LLM)|OpenAI API (контракт взаимодействия FastAPI ↔ LLM)]]
+- [[#LLM (промпт, настройка формата ответа)|LLM (промпт, настройка формата ответа)]]
+- [[#Redis|Redis]]
+- [[#Финальная интеграция|Финальная интеграция]]
 
 
 ## FastAPI
