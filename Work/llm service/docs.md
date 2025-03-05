@@ -50,7 +50,7 @@
 **Задача**: улучшить контекст для LLM, используя графовую структуру данных.
 
 **Полезные ресурсы**:
-- **OpenAI GraphRAG (пример кода)** → [https://openai.com/research/graph-rag](https://openai.com/research/graph-rag)
+- Tutorial [Graph RAG with Milvus](https://milvus.io/docs/graph_rag_with_milvus.md)
 - **Обзор GraphRAG (Medium, англ.)** → "What is GraphRAG and Why It Matters"
 - **Графовые базы данных и NLP (Neo4j, Milvus)** → https://neo4j.com/developer/example-project/knowledge-graph-rag/
 
