@@ -52,8 +52,7 @@
 **Полезные ресурсы**:
 * medium [what is graph rag](https://medium.com/@zilliz_learn/graphrag-explained-enhancing-rag-with-knowledge-graphs-3312065f99e1)
 - Tutorial [Graph RAG with Milvus](https://milvus.io/docs/graph_rag_with_milvus.md)
-- **Обзор GraphRAG (Medium, англ.)** → "What is GraphRAG and Why It Matters"
-- **Графовые базы данных и NLP (Neo4j, Milvus)** → https://neo4j.com/developer/example-project/knowledge-graph-rag/
+- [Обзор GraphRAG (Medium, англ.) ]([https://youtu.be/C14DFAlaFIw](https://youtu.be/C14DFAlaFIw))
 
 🛠 **Применение**:
 
@@ -62,3 +61,19 @@
 3. Подключить к Milvus и проверить эффективность.
 
 
+## OpenAI API (контракт взаимодействия FastAPI ↔ LLM)
+
+**Задача**: передавать найденный контекст в LLM и получать качественный ответ.
+
+**Полезные ресурсы**:
+- **Официальная документация OpenAI API** → [https://platform.openai.com/docs/](https://platform.openai.com/docs/)
+    - [API Reference](https://platform.openai.com/docs/api-reference/authentication)
+    - [Chat Completions](https://platform.openai.com/docs/guides/completions)
+    -[ Fine-Tuning](https://platform.openai.com/docs/guides/fine-tuning)
+- **Пример интеграции FastAPI + OpenAI** → https://blog.devgenius.io/fastapi-openai-integration
+
+🛠 **Применение**:
+
+1. Настроить взаимодействие с OpenAI API.
+2. Передавать релевантный контекст из Milvus.
+3. Оптимизировать промпт для получения точных ответов.
