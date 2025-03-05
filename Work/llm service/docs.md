@@ -6,13 +6,12 @@
 
 - **Официальная документация FastAPI** → https://fastapi.tiangolo.com/
     - ["First Steps" ](https://fastapi.tiangolo.com/tutorial/first-steps/)
-    - "Request Handling"
-    - "Background Tasks"
-    - "Dependencies"_
+    - ["Request Handling"](https://fastapi.tiangolo.com/tutorial/body/#request-body-path-query-parameters)
+    - ["Background Tasks"](https://fastapi.tiangolo.com/tutorial/background-tasks/)
+    - ["Dependencies"](https://fastapi.tiangolo.com/tutorial/dependencies/)
 - **Статья на Habr**: 
-
-
 	1. [Построение базы знаний компании и поиска документов на LLM и RAG](https://habr.com/ru/companies/raft/articles/863888/)
+
 - **Работа с внешними API (requests, async)** → https://fastapi.tiangolo.com/advanced/async-sql-databases/
 
 🛠 **Применение**:
