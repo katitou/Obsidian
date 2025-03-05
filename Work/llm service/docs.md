@@ -32,11 +32,11 @@
 
 - **Официальная документация Milvus** → https://milvus.io/docs/
     - [Quickstart](https://milvus.io/docs/quickstart.md)
-    - Indexing
+    - [Indexing](https://milvus.io/docs/ru/index.md?tab=floating)
+    - [Build an Index](https://milvus.io/docs/v2.0.x/build_index.md)
+    - Search
     - 
-    - 
-    - 
-    - Разделы: _"Get Started"_, _""_, _"Search"_, _"Collection Schema"_.
+    - Разделы: _"Get Started"_, _""_, _""_, _"Collection Schema"_.
 - **Пример интеграции с FastAPI** → https://zilliz.com/blog/how-to-build-a-scalable-ai-search-system
 - **Видео-разбор Milvus (YouTube, англ.)** → ["Building a Vector Search System"](https://www.youtube.com/watch?v=X9GVa6CDidY)
 
