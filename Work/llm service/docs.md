@@ -38,7 +38,10 @@
     - [Collection](https://milvus.io/docs/manage-collections.md)
     - [Collection Schema](https://milvus.io/docs/schema.md)
     
-- **Пример интеграции с FastAPI** → https://zilliz.com/blog/how-to-build-a-scalable-ai-search-system
+- **Пример интеграции с FastAPI** 
+	- https://github.com/stephen37/Milvus_demo/tree/main/langchain_demos/langserve_demos
+	- https://github.com/stephen37/Milvus_demo/tree/main/llama_index_demos
+	- 
 - **Видео-разбор Milvus (YouTube, англ.)** → ["Building a Vector Search System"](https://www.youtube.com/watch?v=X9GVa6CDidY)
 
 🛠 **Применение**:
