@@ -50,7 +50,7 @@
 **Задача**: улучшить контекст для LLM, используя графовую структуру данных.
 
 **Полезные ресурсы**:
-* what is graph rag
+* medium [what is graph rag](https://medium.com/@zilliz_learn/graphrag-explained-enhancing-rag-with-knowledge-graphs-3312065f99e1)
 - Tutorial [Graph RAG with Milvus](https://milvus.io/docs/graph_rag_with_milvus.md)
 - **Обзор GraphRAG (Medium, англ.)** → "What is GraphRAG and Why It Matters"
 - **Графовые базы данных и NLP (Neo4j, Milvus)** → https://neo4j.com/developer/example-project/knowledge-graph-rag/
