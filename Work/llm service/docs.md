@@ -5,7 +5,10 @@
 📚 **Ресурсы**:
 
 - **Официальная документация FastAPI** → https://fastapi.tiangolo.com/
-    - Разделы: _"First Steps"_, _"Request Handling"_, _"Background Tasks"_, _"Dependencies"_
+    - ["First Steps" ](https://fastapi.tiangolo.com/tutorial/first-steps/)
+    - "Request Handling"
+    - "Background Tasks"
+    - "Dependencies"_
 - **Статья на Habr**: 
 
 
